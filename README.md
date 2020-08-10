@@ -8,6 +8,7 @@ All the work herein is licensed under [the Creative Commons Attribution 4.0 Inte
 
 ## Areas of this project
 
-* [`holotype`](holotype) contains work towards establishing which scapulocoracoid is the holotype.
-* [`letters`](letters) contains historic correspondence.
+* [`holotype`](holotype) -- work towards establishing which scapulocoracoid is the holotype.
+* [`prep`](prep) -- information about long and confusing preparation process.
+* [`letters`](letters) -- historic correspondence.
 
