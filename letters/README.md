@@ -5,6 +5,7 @@ August 2020.
 * [`1974-10-04--jensen-to-mcinnes.jpeg`](1974-10-04--jensen-to-mcinnes.jpeg)
 * [`1978-01-17--jensen-to-mcinnes.jpeg`](1978-01-17--jensen-to-mcinnes.jpeg)
 * [`1979-11-20--jensen-to-mcinnes.jpeg`](1979-11-20--jensen-to-mcinnes.jpeg)
+* [`1982-10-12--jensen-to-mcinnes.jpeg`](1982-10-12--jensen-to-mcinnes.jpeg)
 
 These were sent as a followup to [McInnes's SV-POW! comment](https://svpow.com/2020/08/04/john-conways-brontosmash/#comment-218297):
 
